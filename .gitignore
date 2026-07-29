@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+database/supermarket.db
+.env
+.venv/
+build/
+dist/
